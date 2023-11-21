@@ -3,10 +3,9 @@
 # Grupo 1:
 - Bruna Corrêa Sabel
 - Cloves Meneghin de Oliveira
-- Gabriela Mariana Abdo
+- Gabriela Marina Abdo
 - Leonardo Cavalcante da Silva
-- Maibi Cristina artins Leite
-- Thiago Felipe Silva de Oliveira
+- Maibi Cristina Martins Leite
 
 # Procedimentos
 - Instalar o MySQL Workbench, disponível em https://dev.mysql.com/downloads/workbench/
